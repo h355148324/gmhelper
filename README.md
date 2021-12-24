@@ -3,4 +3,4 @@ BC库从1.59版本开始已经基本实现了国密算法（SM2、SM3、SM4）�
 1. SM2/SM3/SM4算法的简单封装  
 2. SM2 X509v3证书的签发  
 3. SM2 pfx证书的签发  
-4.原地址：https://github.com/rainlessliu/gmhelper.git
+4. 原地址：https://github.com/rainlessliu/gmhelper.git
